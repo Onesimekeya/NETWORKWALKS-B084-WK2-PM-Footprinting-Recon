@@ -48,8 +48,6 @@ This repository documents my practical work for Week 2 of the NetworkWalks Cyber
 
 ## 📸 Walkthrough & Screenshots
 
-*(Assurez-vous d'avoir créé un dossier "screenshots" dans votre dépôt et d'y avoir placé vos images)*
-
 ### 1. Passive & Active Footprinting
 Here are the results of the information gathering phase using Kali Linux terminal tools.
 

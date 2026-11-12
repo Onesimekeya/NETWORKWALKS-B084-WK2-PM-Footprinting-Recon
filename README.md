@@ -54,19 +54,20 @@ This repository documents my practical work for Week 2 of the NetworkWalks Cyber
 Here are the results of the information gathering phase using Kali Linux terminal tools.
 
 **WHOIS & Nslookup (Domain & IP Info)**
-![Whois Output](./screenshots/whois.png)
-![Nslookup Output](./screenshots/nslookup.png)
+![Whois Output](./Screenshots/Whois.png)
+![Nslookup Output](./Screenshots/nslookup.png)
 
 **WhatWeb & WAF Detection (Web Fingerprinting)**
-![WhatWeb Output](./screenshots/whatweb.png)
-![Wafw00f Output](./screenshots/wafw00f.png)
+![WhatWeb Output](./Screenshots/Whatweb.png)
+![Wafw00f Output](./Screenshots/wafwoof.png)
 
 **DNS Enumeration & HTTP Headers**
-![Dnsrecon Output](./screenshots/dnsrecon.png)
-![cURL Headers](./screenshots/curl.png)
+![Dnsrecon Output](./Screenshots/dnsreconn.png)
+![cURL Headers](./Screenshots/Curl-I.png)
 
 **OSINT Gathering with theHarvester**
-![theHarvester Output](./screenshots/theharvester.png)
+![theHarvester Output](./Screenshots/harverster1.png)
+![theHarvester Output](./Screenshots/harverster2.png)
 
 ### 2. Network Scanning with Zenmap
 Transitioning from web recon to network discovery, I used Zenmap to perform Ping Scans and identify active hosts, open ports, and running services.
